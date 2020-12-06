@@ -1,0 +1,90 @@
+﻿Public Class Flags
+
+    <Flags>
+    Public Enum WindowStyles As Integer
+        WS_OVERLAPPED = &H0
+        '  WS_POPUP = &H80000000UI
+        WS_CHILD = &H40000000
+        WS_MINIMIZE = &H20000000
+        WS_VISIBLE = &H10000000
+        WS_DISABLED = &H8000000
+        WS_CLIPSIBLINGS = &H4000000
+        WS_CLIPCHILDREN = &H2000000
+        WS_MAXIMIZE = &H1000000
+        WS_BORDER = &H800000
+        WS_DLGFRAME = &H400000
+        WS_VSCROLL = &H200000
+        WS_HSCROLL = &H100000
+        WS_SYSMENU = &H80000
+        WS_THICKFRAME = &H40000
+        WS_GROUP = &H20000
+        WS_TABSTOP = &H10000
+
+        WS_MINIMIZEBOX = &H20000
+        WS_MAXIMIZEBOX = &H10000
+
+        WS_CAPTION = WS_BORDER Or WS_DLGFRAME
+        WS_TILED = WS_OVERLAPPED
+        WS_ICONIC = WS_MINIMIZE
+        WS_SIZEBOX = WS_THICKFRAME
+        WS_TILEDWINDOW = WS_OVERLAPPEDWINDOW
+
+        WS_OVERLAPPEDWINDOW = WS_OVERLAPPED Or WS_CAPTION Or WS_SYSMENU Or WS_THICKFRAME Or WS_MINIMIZEBOX Or WS_MAXIMIZEBOX
+        '  WS_POPUPWINDOW = WS_POPUP Or WS_BORDER Or WS_SYSMENU
+        WS_CHILDWINDOW = WS_CHILD
+
+        'Extended Window Styles
+
+        WS_EX_DLGMODALFRAME = &H1
+        WS_EX_NOPARENTNOTIFY = &H4
+        WS_EX_TOPMOST = &H8
+        WS_EX_ACCEPTFILES = &H10
+        WS_EX_TRANSPARENT = &H20
+
+        '#if(WINVER >= 0x0400)
+
+        WS_EX_MDICHILD = &H40
+        WS_EX_TOOLWINDOW = &H80
+        WS_EX_WINDOWEDGE = &H100
+        WS_EX_CLIENTEDGE = &H200
+        WS_EX_CONTEXTHELP = &H400
+
+        WS_EX_RIGHT = &H1000
+        WS_EX_LEFT = &H0
+        WS_EX_RTLREADING = &H2000
+        WS_EX_LTRREADING = &H0
+        WS_EX_LEFTSCROLLBAR = &H4000
+        WS_EX_RIGHTSCROLLBAR = &H0
+
+        WS_EX_CONTROLPARENT = &H10000
+        WS_EX_STATICEDGE = &H20000
+        WS_EX_APPWINDOW = &H40000
+
+        WS_EX_OVERLAPPEDWINDOW = (WS_EX_WINDOWEDGE Or WS_EX_CLIENTEDGE)
+        WS_EX_PALETTEWINDOW = (WS_EX_WINDOWEDGE Or WS_EX_TOOLWINDOW Or WS_EX_TOPMOST)
+
+        '#endif /* WINVER >= 0x0400 */
+
+        '#if(WIN32WINNT >= 0x0500)
+
+        WS_EX_LAYERED = &H80000
+
+        '#endif /* WIN32WINNT >= 0x0500 */
+
+        '#if(WINVER >= 0x0500)
+
+        WS_EX_NOINHERITLAYOUT = &H100000 ' Disable inheritence of mirroring by children
+        WS_EX_LAYOUTRTL = &H400000 ' Right to left mirroring
+
+        '#endif /* WINVER >= 0x0500 */
+
+        '#if(WIN32WINNT >= 0x0500)
+
+        WS_EX_COMPOSITED = &H2000000
+        WS_EX_NOACTIVATE = &H8000000
+
+        '#endif /* WIN32WINNT >= 0x0500 */
+
+    End Enum
+
+End Class

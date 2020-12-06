@@ -1,0 +1,44 @@
+C:\Users\shlif\source\repos\AmongUsMemory\AmongUsMemory\bin\Debug\AmongUsMemory.dll
+C:\Users\shlif\source\repos\AmongUsMemory\AmongUsMemory\bin\Debug\AmongUsMemory.pdb
+C:\Users\shlif\source\repos\AmongUsMemory\AmongUsMemory\bin\Debug\Memory.dll
+C:\Users\shlif\source\repos\AmongUsMemory\AmongUsMemory\bin\Debug\Memory.pdb
+C:\Users\shlif\source\repos\AmongUsMemory\AmongUsMemory\bin\Debug\Memory.xml
+C:\Users\shlif\source\repos\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.csprojAssemblyReference.cache
+C:\Users\shlif\source\repos\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.csproj.CoreCompileInputs.cache
+C:\Users\shlif\source\repos\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.csproj.CopyComplete
+C:\Users\shlif\source\repos\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.dll
+C:\Users\shlif\source\repos\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.pdb
+C:\Users\shlif\OneDrive\Documents\GitHub\AmongUsMemory\AmongUsMemory\bin\Debug\AmongUsMemory.dll
+C:\Users\shlif\OneDrive\Documents\GitHub\AmongUsMemory\AmongUsMemory\bin\Debug\AmongUsMemory.pdb
+C:\Users\shlif\OneDrive\Documents\GitHub\AmongUsMemory\AmongUsMemory\bin\Debug\Memory.dll
+C:\Users\shlif\OneDrive\Documents\GitHub\AmongUsMemory\AmongUsMemory\bin\Debug\Memory.pdb
+C:\Users\shlif\OneDrive\Documents\GitHub\AmongUsMemory\AmongUsMemory\bin\Debug\Memory.xml
+C:\Users\shlif\OneDrive\Documents\GitHub\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.csprojAssemblyReference.cache
+C:\Users\shlif\OneDrive\Documents\GitHub\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.csproj.CoreCompileInputs.cache
+C:\Users\shlif\OneDrive\Documents\GitHub\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.csproj.CopyComplete
+C:\Users\shlif\OneDrive\Documents\GitHub\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.dll
+C:\Users\shlif\OneDrive\Documents\GitHub\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.pdb
+C:\Users\shlif\OneDrive\Desktop\Github\AmongUsMemory\AmongUsMemory\bin\Debug\AmongUsMemory.dll
+C:\Users\shlif\OneDrive\Desktop\Github\AmongUsMemory\AmongUsMemory\bin\Debug\AmongUsMemory.pdb
+C:\Users\shlif\OneDrive\Desktop\Github\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.csproj.CoreCompileInputs.cache
+C:\Users\shlif\OneDrive\Desktop\Github\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.csproj.CopyComplete
+C:\Users\shlif\OneDrive\Desktop\Github\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.dll
+C:\Users\shlif\OneDrive\Desktop\Github\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.pdb
+C:\Users\shlif\OneDrive\Desktop\Github\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.csprojAssemblyReference.cache
+C:\Users\Deyfe\Downloads\AmongUsMemory-master\AmongUsMemory-master\AmongUsMemory\obj\Debug\AmongUsMemory.csprojAssemblyReference.cache
+C:\Users\Deyfe\Downloads\AmongUsMemory-master\AmongUsMemory-master\AmongUsMemory\obj\Debug\AmongUsMemory.csproj.CoreCompileInputs.cache
+C:\Users\Deyfe\Downloads\AmongUsMemory-master\AmongUsMemory-master\AmongUsMemory\obj\Debug\AmongUsMemory.dll
+C:\Users\Deyfe\Downloads\AmongUsMemory-master\AmongUsMemory-master\AmongUsMemory\obj\Debug\AmongUsMemory.pdb
+C:\Users\HP\Documents\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.csprojAssemblyReference.cache
+C:\Users\HP\Documents\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.dll
+C:\Users\HP\Documents\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.pdb
+C:\Users\HP\Documents\AmongUsMemory\AmongUsMemory\bin\Debug\AmongUsMemory.dll
+C:\Users\HP\Documents\AmongUsMemory\AmongUsMemory\bin\Debug\AmongUsMemory.pdb
+C:\Users\HP\Documents\AmongUsMemory\AmongUsMemory\bin\Debug\Memory.dll
+C:\Users\HP\Documents\AmongUsMemory\AmongUsMemory\bin\Debug\System.ValueTuple.dll
+C:\Users\HP\Documents\AmongUsMemory\AmongUsMemory\bin\Debug\System.ValueTuple.xml
+C:\Users\HP\Documents\AmongUsMemory\AmongUsMemory\obj\Debug\AmongUsMemory.csproj.CopyComplete
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2013\Projects\AmongUS.MOD\MemoryFix\AmongUsMemory\obj\Debug\AmongUsMemory.csprojResolveAssemblyReference.cache
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2013\Projects\AmongUS.MOD\MemoryFix\AmongUsMemory\obj\Debug\AmongUsMemory.dll
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2013\Projects\AmongUS.MOD\MemoryFix\AmongUsMemory\obj\Debug\AmongUsMemory.pdb

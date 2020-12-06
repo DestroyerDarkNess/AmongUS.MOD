@@ -1,0 +1,14 @@
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\AmongUS.MOD\AmongUS.MOD\bin\Debug\AmongUS.MOD.exe.config
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\AmongUS.MOD\AmongUS.MOD\bin\Debug\AmongUS.MOD.exe
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\AmongUS.MOD\AmongUS.MOD\bin\Debug\AmongUS.MOD.pdb
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\AmongUS.MOD\AmongUS.MOD\bin\Debug\AmongUS.MOD.xml
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\AmongUS.MOD\AmongUS.MOD\obj\Debug\AmongUS.MOD.Form1.resources
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\AmongUS.MOD\AmongUS.MOD\obj\Debug\AmongUS.MOD.Resources.resources
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\AmongUS.MOD\AmongUS.MOD\obj\Debug\AmongUS.MOD.vbproj.GenerateResource.Cache
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\AmongUS.MOD\AmongUS.MOD\obj\Debug\AmongUS.MOD.exe
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\AmongUS.MOD\AmongUS.MOD\obj\Debug\AmongUS.MOD.xml
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\AmongUS.MOD\AmongUS.MOD\obj\Debug\AmongUS.MOD.pdb
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\AmongUS.MOD\AmongUS.MOD\bin\Debug\Guna.UI.dll
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\AmongUS.MOD\AmongUS.MOD\obj\Debug\AmongUS.MOD.vbprojResolveAssemblyReference.cache
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2013\Projects\AmongUS.MOD\AmongUS.MOD\bin\Debug\Memory.dll
+C:\Users\S4Lsalsoft\Documents\Visual Studio 2013\Projects\AmongUS.MOD\AmongUS.MOD\obj\Debug\AmongUS.MOD.LineLog.resources
