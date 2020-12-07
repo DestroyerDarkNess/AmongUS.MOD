@@ -27,9 +27,9 @@ If you like my work and want to support it, then please consider to deposit a do
     With recent game updates, [Among Us] cheat is Out of Date.
     To fully update the update cheat:
 > 1. [AmongUsMemory](https://github.com/shlifedev/AmongUsMemory) | Update this API and Replace the old one with the new one. 
-     [Remember to Compile this API under the .Net Framework 4]
+     [Remember to Compile this API under the .Net Framework 4.5]
 
-> 2. Update all the Adress and Offset (s) of the cheat.
+> 2. Update all the Adress and Offset(s) of the cheat.
 
 > 3. Compile new version and Enjoy!
 
