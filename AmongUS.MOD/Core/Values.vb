@@ -2,7 +2,7 @@
 
     Public Class Values
 
-        Public Shared ProcessGame = "haloce.exe" '"Among Us.exe" '"Notepad.exe"  '"WDExpress.exe" '
+        Public Shared ProcessGame = "Among Us.exe" '"Among Us.exe" '"Notepad.exe"  '"WDExpress.exe" '
 
 
 
